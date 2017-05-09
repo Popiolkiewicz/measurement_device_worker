@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ process()
+comment2.params=
+comment2.target=java.lang.String[]\ readFromDHT22()
+comment3.params=
+comment3.target=java.lang.String[]\ readFromBMP180()
+comment4.params=dhtMeasurements\ bmpMeasurements
+comment4.target=void\ doRequest(java.lang.String[],\ java.lang.String[])
+comment5.params=dhtMeasurements\ bmpMeasurements
+comment5.target=java.lang.String\ getJSON(java.lang.String[],\ java.lang.String[])
+numComments=6
